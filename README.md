@@ -20,3 +20,5 @@ The actual ingredients of the Employee Activity Logger are as follows:
 To start with, the Database used in this project was ORACLE 11g Express Edition. The Oracle Database 11g Express Edition (Oracle Database XE) is an entry-level, small-footprint database based on the Oracle Database 11g Release 2 code base. This is purely a relational database and we had used a total of 3 tables, which sufficiently fulfilled the needs of our project’s data storage.
 
 The tables along with their constraints are illustrated though the following sequence of snippets:
+
+Screen Shot 2021-04-08 at 7.15.48 PM![image](https://user-images.githubusercontent.com/16867941/114111170-edfd7e80-989e-11eb-8592-af07124ebb62.png)
