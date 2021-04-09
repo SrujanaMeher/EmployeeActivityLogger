@@ -21,4 +21,15 @@ To start with, the Database used in this project was ORACLE 11g Express Edition.
 
 The tables along with their constraints are illustrated though the following sequence of snippets:
 
-Screen Shot 2021-04-08 at 7.15.48 PM![image](https://user-images.githubusercontent.com/16867941/114111170-edfd7e80-989e-11eb-8592-af07124ebb62.png)
+![image](https://user-images.githubusercontent.com/16867941/114113374-0d4ada80-98a4-11eb-92a0-ef030530000c.png)
+
+The user initially views a HTML page and is requested to input his mode of Activity.
+Here every Employee is authenticated by Registering for the EAL in our ealregister.html page. The following code snippet shows the employee registration page where the employee just enters his/her employee id and the basic details are pre-fetched in order to provide authenticated registration. Then a password matching the required criteria is accepted and the registration would be completed:
+
+![image](https://user-images.githubusercontent.com/16867941/114113434-33707a80-98a4-11eb-8018-6d880cfeb74c.png)
+
+Here there will be no duplicate and proxy registrations whatsoever as we validate the employee id and match with the already present employee database at the RINL-VSP. Every employee is requested to choose a password during his/her registration.
+Later the employee Logs in for performing his activities. The following is the snippet showing the EAL’s Log-In page:
+
+
+
